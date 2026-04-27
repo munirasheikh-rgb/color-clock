@@ -5,10 +5,18 @@ displays date and time in a readable format
 uses react functional components
 uses date-fns to format date
 ## 📁How to run the project
-clone the repository: git clone <your-repo-link>
-navigate to the project folder:< cd color-clock>
-install all dependancies: <npm install>
-start the server:<npm run dev>
+
+1. Clone the repository:
+ git clone <your-repo-link> 
+
+2. Navigate into the project folder:
+    cd color-clock 
+
+3. Install dependencies:
+  npm install 
+
+4. Start the development server:
+    npm run dev 
 ## 🛠️Technologies used
 React(vite)
 date-fns
