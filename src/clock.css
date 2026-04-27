@@ -1,0 +1,11 @@
+.date {font-size:50px;
+font-weight:600px;
+color:bisque;
+flex-direction: coloumn;
+gap :15px;                       /*styling the date and time display*/
+justify-content: center;
+align-items: center;
+display: flex;
+background-color: brown;
+border-radius:10px;
+padding:20px}
