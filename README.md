@@ -1,16 +1,17 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#description
+This is a react apllication that displays the current date and time using date-fns library.
+##Features
+displays date and time in a readable format
+uses react functional components
+uses date-fns to format date
+##How to run the project
+clone the repository: git clone <your-repo-link>
+navigate to the project folder:< cd color-clock>
+install all dependancies: <npm install>
+start the server:<npm run dev>
+##Technologies used
+React(vite)
+date-fns
+CSS
+#Author
+Munira Sheikh
